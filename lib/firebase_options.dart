@@ -71,4 +71,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'ludovic-tp3-mobile.firebasestorage.app',
     iosBundleId: 'com.example.appTp3',
   );
+
 }
