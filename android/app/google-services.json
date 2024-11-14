@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356922638702",
+    "project_id": "ludovic-tp3-mobile",
+    "storage_bucket": "ludovic-tp3-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356922638702:android:b6816f57985cb7a186017f",
+        "android_client_info": {
+          "package_name": "com.example.app_tp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLUYXhQqJpTUdmSNmgB-pKxUddvkfGdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
